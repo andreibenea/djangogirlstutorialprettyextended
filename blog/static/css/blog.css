@@ -111,3 +111,12 @@ aside {
     background-color: gray;
     border-color: gray;
 }
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
+.post .comments {
+    text-decoration: none;
+    color: black;
+}
