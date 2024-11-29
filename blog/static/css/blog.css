@@ -44,6 +44,17 @@ h4 {
     width: 100%;
 }
 
+form {
+    display: inline;
+}
+
+aside {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+}
+
 .top-menu,
 .top-menu:hover,
 .top-menu:visited {
