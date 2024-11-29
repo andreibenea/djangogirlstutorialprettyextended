@@ -35,6 +35,20 @@ h4 {
     color: #828282;
 }
 
+#logout {
+    display: flex;
+    flex-direction: row;
+    float: right;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: left;
+}
+
+#logout button {
+    margin-right: 25px;
+    margin-bottom: 18px;
+}
+
 .save {
     float: right;
 }
@@ -42,10 +56,6 @@ h4 {
 .post-form textarea,
 .post-form input {
     width: 100%;
-}
-
-form {
-    display: inline;
 }
 
 aside {
@@ -88,4 +98,16 @@ aside {
 .btn-secondary:hover {
     color: #FFFFFF;
     background-color: #C25100;
+}
+
+.btn-primary, .btn-primary:visited {
+    background-color: white;
+    color: black;
+    border-color: white;
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: gray;
+    border-color: gray;
 }
