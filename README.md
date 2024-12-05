@@ -3,11 +3,9 @@
 Copied over from `https://github.com/andreibenea/djangogirlstutorialpretty` (Module 6).
 
 Purpose is to have a separate repo for performing the following tutorials:
-1. Homework: Add more to your website
-2. Homework - Adding Security to Your Website
-3. Homework: create comment model
-4. Domain
-5. Deploy to Heroku / Pythonanywhere
+1. Homework: Add More to Your Website
+2. Homework: Adding Security to Your Website
+3. Homework: Create Comment Model
 
 ## cloning
 
